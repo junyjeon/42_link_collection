@@ -110,9 +110,9 @@
 
 ## 개발 환경 설정
 
-//[windows11 wsl install](https://blog.dalso.org/article/windows-11-wsl2-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
-//[c/c++ 개발환경구축](https://rasino.tistory.com/307)
-//[mingw 설치랑 환경변수 설정](https://velog.io/@apriljade0831/CC-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EC%A1%B0%EC%84%B1%EA%B8%B0)
+// [windows11 wsl install](https://blog.dalso.org/article/windows-11-wsl2-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
+// [c/c++ 개발환경구축](https://rasino.tistory.com/307)
+// [mingw 설치랑 환경변수 설정](https://velog.io/@apriljade0831/CC-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EC%A1%B0%EC%84%B1%EA%B8%B0)
 [암이 나을 vscode 개발환경 구축](https://velog.io/@cedongne/VSCode-Visual-Studio-Code%EC%97%90%EC%84%9C-CC-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0)
 [.vscode의 tasks.json 이해해보기](https://80000coding.oopy.io/be413f48-f12d-4af1-824b-9037026349c2#be413f48-f12d-4af1-824b-9037026349c2)
 [vscode 컴파일러 설정](https://webnautes.tistory.com/1158)
@@ -125,7 +125,6 @@
 [윈도우에서 clion 환경설정 A-Z](https://nahwasa.com/entry/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9C%88%EB%8F%84%EC%9A%B0-%EC%84%B8%ED%8C%85-WSL-%EC%84%9C%EB%B8%8C-%EB%A6%AC%EB%88%85%EC%8A%A4-IntelliJ-vscode-git-%EB%93%B1)
 [노마드코더 개발환경 설정](https://nomadcoders.co/windows-setup-for-developers/lobby?utm_source=free_course&utm_campaign=windows-setup-for-developers&utm_medium=site)
 [zshrc 플러그인 설정](https://richwind.co.kr/208)
-[End of line 저장하면 파일 끝에 insertFinalNewline]
 
 ## Git & GitHub
 
@@ -190,9 +189,12 @@
 
 ## 기타 유용한 자료
 
-- AI
-  [10초 완성 영어 이메일](https://www.10second.xyz/)
-- 스터디 역량 키우기
-  [질문하고 부탁할 때 저평가, 거절, 민폐의 두려움 이겨내기](https://steady-study.super.site/overcoming-fear-of-asking)
+### AI
+
+[10초 완성 영어 이메일](https://www.10second.xyz/)
+
+### 스터디 역량 키우기
+
+[질문하고 부탁할 때 저평가, 거절, 민폐의 두려움 이겨내기](https://steady-study.super.site/overcoming-fear-of-asking)
 
 </samp>
