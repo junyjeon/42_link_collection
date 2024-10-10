@@ -1,5 +1,59 @@
 # link_tree
 
+42Seoul 과정 중 모아둔 링크
+* 내 글
+[42Seoul 맥 환경 세팅]https://velog.io/@junyooo/9snjed0v
+[C++ 링크 모음]https://velog.io/@junyooo/C-%EB%A7%81%ED%81%AC%EB%AA%A8%EC%9D%8C
+[Minishell 키워드 메모장]https://velog.io/@junyooo/Minishell
+[Minishell 두 번째 메모장]https://velog.io/@junyooo/Minishell-%EA%B0%9C%EC%9D%B8-%EB%85%B8%ED%8A%B8
+[2023년 3월 5일 ChatGPT 공부]https://velog.io/@junyooo/ChatGPT
+[Fdf 이해를 위한 메모장]https://velog.io/@junyooo/fdf
+[Philosophers 메모장]https://velog.io/@junyooo/philosophers
+[향수 페이지 기획]https://velog.io/@junyooo/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80
+[TCP/IP 메모장]https://velog.io/@junyooo/t
+[GPTers에 올린 글 모음]https://velog.io/@junyooo/ChatGPT4-MidJourney-Eleven-labs-D-ID-%EC%97%B0%EA%B3%84%ED%95%B4%EB%B3%B4%EA%B8%B0
+[Dart/Flutter 링크 모음]https://velog.io/@junyooo/Dart-%EB%A7%81%ED%81%AC-%EB%AA%A8%EC%9D%8C
+[Dart/Flutter 메모]https://velog.io/@junyooo/Flutter-Dart-%EB%A9%94%EB%AA%A8
+[2023년 6월 10일]https://velog.io/@junyooo/GPTers-%EB%A7%81%ED%81%AC-%EB%AA%A8%EC%9D%8C
+[2023년 7월 31일 LangChain 이해해보기]https://velog.io/@junyooo/LangChain
+[MongoDB 삽질]https://velog.io/@junyooo/MongoDB-7.0-%EC%84%A4%EC%B9%98-%EC%82%BD%EC%A7%88
+[2023년 10월 9일 GPT 신속주입 프롬프트]https://velog.io/@junyooo/GPT-%ED%95%B4%ED%82%B9
+[CPP05]https://velog.io/@junyooo/cpp05-%EB%A9%94%EB%AA%A8
+[CPP06]https://velog.io/@junyooo/Cpp06
+[Inception 메모장]https://velog.io/@junyooo/inception
+[IRC 메모장]https://velog.io/@junyooo/IRC
+[프론트엔드 보안 메모]https://velog.io/@junyooo/%EB%B3%B4%EC%95%88
+[크롤링 메모]https://velog.io/@junyooo/%EB%8C%80%EC%B6%A9-%ED%81%AC%EB%A1%A4%EB%A7%81
+[옵시디언 퍼블리싱]https://velog.io/@junyooo/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8-%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%8B%B1-%EC%9A%94%EC%95%BD
+[Figma 링크 모음]https://velog.io/@junyooo/Figam
+[Python 메모]https://velog.io/@junyooo/python
+[GPT 프롬프트 메모]https://velog.io/@junyooo/GPT-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%EB%A9%94%EB%AA%A8
+[회전 프록시 서비스 기록]https://velog.io/@junyooo/%EC%85%80%EB%A0%88%EB%8B%88%EC%9B%80-%EB%A9%94%EB%AA%A8%EC%9E%A5
+[HTML 태그 나열]https://velog.io/@junyooo/HTML-%ED%83%9C%EA%B7%B8
+[Selenium 요소 검색법 나열]https://velog.io/@junyooo/Selenium-%EC%9A%94%EC%86%8C%EA%B2%80%EC%83%89-findelement
+[HTTP 상태 코드]https://velog.io/@junyooo/HTTP-%EC%83%81%ED%83%9C%EC%BD%94%EB%93%9C
+[코테 시간복잡도 별 알고리즘 나열]https://velog.io/@junyooo/%EC%BD%94%ED%85%8C-%EC%9E%85%EB%A0%A5%EC%A0%9C%ED%95%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98
+[노마드 코더 개발환경 강의 정리]https://velog.io/@junyooo/%EB%85%B8%EB%A7%88%EB%93%9C%EC%BD%94%EB%8D%94-%EA%B0%95%EC%9D%98-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95-%EC%A0%95%EB%A6%AC
+[Restful 설계 규칙]https://velog.io/@junyooo/Restful-%EC%84%A4%EA%B3%84-%EA%B7%9C%EC%B9%99
+[SEO 최적화 프롬프트]https://velog.io/@junyooo/SEO-%EC%B5%9C%EC%A0%81%ED%99%94-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%ED%82%A4%EC%9B%8C%EB%93%9C
+[2024년 1월 12일 프롬프트 신속주입 ver.2(DAN)]https://velog.io/@junyooo/DAN-version2-GPT
+[Google Cloud Console 사용기록]https://velog.io/@junyooo/Google-Cloud-Console-%EC%82%AC%EC%9A%A9-%EA%B8%B0
+[Bootstrap 메모장]https://velog.io/@junyooo/Bootstrap
+[로그인 로직 기록]https://velog.io/@junyooo/%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B8%B0%EB%A1%9D
+[Rust 문법]https://velog.io/@junyooo/Rust-%EB%AC%B8
+[Rust 기록]https://velog.io/@junyooo/Rust-%EC%8B%9C%EC%9E%91
+[C++ const 정리]https://velog.io/@junyooo/C-const-%EC%A0%95
+[LangChain RAG 제작 정리]https://velog.io/@junyooo/LangChain-Rag-%EC%A0%9C%EC%9E%91
+[CPP09 ex02 기록]https://velog.io/@junyooo/CPP09-ex02-%EB%A9%94%EB%AA%A8
+[윈도우 개발환경 설정 스크립트로 정리]https://velog.io/@junyooo/%EC%9C%88%EB%8F%84%EC%9A%B0-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95
+[Transendence QA 계획]https://velog.io/@junyooo/QA-%EA%B3%84%ED%9A%8D
+[윈도우 wsl Ubuntu-22.04에서 Dart/Flutter 설치 스크립트]https://velog.io/@junyooo/Ubuntu-22.04%EC%97%90%EC%84%9C-DartFlutter-%EC%84%A4%EC%B9%98-%EB%B2%95
+[Rust 제대로 배우기]https://velog.io/@junyooo/Rust-%EB%B0%B0%EC%9A%B0%EA%B8%B0
+[Tauri 배우기]https://velog.io/@junyooo/Tauri-%EB%B0%B0%EC%9A%B0%EA%B8%B0
+[DB 정규화 메모]https://velog.io/@junyooo/%EC%A0%95%EA%B7%9C%ED%99%94-%EC%9E%84%EC%8B%9C-%EB%A9%94%EB%AA%A8
+[Git Submodule Subtree 메모]https://velog.io/@junyooo/Git-%EC%84%9C%EB%B8%8C%EB%AA%A8%EB%93%88-%EC%84%9C%EB%B8%8C%ED%8A%B8%EB%A6%AC
+[창업형 인간 되기]https://velog.io/@junyooo/%EC%B0%BD%EC%97%85-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84300-%EC%84%A0%ED%96%89%EA%B3%BC%EC%A0%95-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%B1%8C%EB%A6%B0%EC%A7%80-1 
+
 * 개념
 [size_t 개념](https://80000coding.oopy.io/405b810d-81b8-452e-a6f9-b1282d816ba4)
 [ft_함수들 개념](https://velog.io/@yeunjoo121)
