@@ -3,6 +3,7 @@
 42Seoul 과정 중 모아둔 링크
 * 내 글
 [42Seoul 맥 환경 세팅]https://velog.io/@junyooo/9snjed0v
+
 [C++ 링크 모음]https://velog.io/@junyooo/C-%EB%A7%81%ED%81%AC%EB%AA%A8%EC%9D%8C
 [Minishell 키워드 메모장]https://velog.io/@junyooo/Minishell
 [Minishell 두 번째 메모장]https://velog.io/@junyooo/Minishell-%EA%B0%9C%EC%9D%B8-%EB%85%B8%ED%8A%B8
