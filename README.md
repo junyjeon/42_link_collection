@@ -155,9 +155,9 @@
 - [make, Makefile 이해하기](https://losskatsu.github.io/programming/c-make)
 - [.PHONY를 쓰는 이유](https://jusths.tistory.com/226)
 
-## 🎓 42 관련 자료
+## 🎓 42 관련
 
-### 유용한 도구
+### 도구
 - [42evaluators/블랙홀 계산기](https://42evaluators.com/calculator)
 - [42doproject/프로젝트 모집](https://42doproject.com/)
 - [42toolbox](https://github.com/alexandregv/42toolbox)
